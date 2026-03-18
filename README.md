@@ -8,7 +8,7 @@ I'm a Mac admin at heart. When I discovered swiftDialog, I fell in love with how
 
 ## Installation
 
-1. Download `winDialog.exe`
+1. Download `winDialog.exe` - https://github.com/distorted-fields/winDialog/actions/runs/23226138407/artifacts/5977715203
 2. Drop it somewhere stable — we recommend:
    ```
    C:\ProgramData\PretendoCo\winDialog.exe
