@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8B+4GnWKTic=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaron\\Documents\\winDialog\\src\\winDialog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaron\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.24\\microsoft.net.illink.tasks.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
