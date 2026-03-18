@@ -16,6 +16,7 @@ I'm a Mac admin at heart. When I discovered swiftDialog, I fell in love with how
 3. That's it. No installer, no dependencies, no drama.
 
 ---
+<img width="690" height="479" alt="Screenshot 2026-03-17 at 9 21 17 PM" src="https://github.com/user-attachments/assets/10f0daec-133d-4c0d-a61a-86b39efbd0bb" />
 
 ## Usage
 
