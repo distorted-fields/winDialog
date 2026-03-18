@@ -2,7 +2,7 @@
 
 > **A Windows take on [swiftDialog](https://github.com/swiftDialog/swiftDialog) — built by an Apple Endpoint Engineer who refused to let Windows have all the boring popups.**
 
-I'm a Mac admin at heart. When I discovered swiftDialog, I fell in love with how easy it made user-facing dialogs in Jamf workflows. Then someone handed me a Windows environment and I thought: *why should Mac admins have all the fun?* So I vibe coded this little tool into existence. It's not perfect, but it gets the job done.
+I'm a Mac admin at heart. When I discovered swiftDialog, I fell in love with how easy it made user-facing dialogs. Then someone handed me a Windows environment and I thought: *why do all these prompts look like Windows 98?* So I vibe coded this little tool into existence. It's not perfect, but it gets the job done.
 
 ---
 
@@ -11,7 +11,7 @@ I'm a Mac admin at heart. When I discovered swiftDialog, I fell in love with how
 1. Download `winDialog.exe`
 2. Drop it somewhere stable — we recommend:
    ```
-   C:\ProgramData\Techvera\winDialog.exe
+   C:\ProgramData\PretendoCo\winDialog.exe
    ```
 3. That's it. No installer, no dependencies, no drama.
 
@@ -24,7 +24,7 @@ I'm a Mac admin at heart. When I discovered swiftDialog, I fell in love with how
 Set up your content as variables first. Empty variables are safely ignored.
 
 ```powershell
-$WinDialogPath = "C:\ProgramData\Techvera\winDialog.exe"
+$WinDialogPath = "C:\ProgramData\Pretendco\winDialog.exe"
 
 $Title   = "System Restart Recommended"
 $Message = "Your device hasn't been restarted in 4 days. To ensure you receive the latest security updates and maintain performance, company policy requires a reboot every 30 days.`n`nPlease save your work and select Reboot Now, or click Later to restart at a more convenient time today."
