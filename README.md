@@ -2,7 +2,7 @@
 
 > **A Windows take on [swiftDialog](https://github.com/swiftDialog/swiftDialog) — built by an Apple Endpoint Engineer who refused to let Windows have all the boring popups.**
 
-I'm a Mac admin at heart. When I discovered swiftDialog, I fell in love with how easy it made user-facing dialogs. Then someone handed me a Windows environment and I thought: *why do all these prompts look like Windows 98?* So I vibe coded this little tool into existence. It's not perfect, but it gets the job done.
+I'm a Mac admin at heart. When I discovered swiftDialog, I fell in love with how easy it made user-facing dialogs. Then someone handed me a Windows environment and I thought: *why do all these prompts look like Windows 98 and why do they take so much work to get going?* So I vibe coded this little tool into existence. It's not perfect, but it gets the job done.
 
 ---
 
